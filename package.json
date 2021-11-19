@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/rebeccahahn40.lwc-kw6gbljf-fork-kw6gc628",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 2z38v9ZPlVJaarnwQ71f --open"
+  }
+}
